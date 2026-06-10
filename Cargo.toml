@@ -1,4 +1,6 @@
 [package]
+description = "ternary-game-of-life - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-game-of-life"
 name = "ternary-game-of-life"
 version = "0.1.0"
 edition = "2024"
